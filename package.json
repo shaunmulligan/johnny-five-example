@@ -17,6 +17,7 @@
     "Raspi-io"
   ],
   "dependencies": {
+    "raspi-io": "3.1.0",
     "uuid": "2.0.1",
     "johnny-five": "0.8.56",
     "firebase": "2.2.4"

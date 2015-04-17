@@ -4,7 +4,7 @@
   "description": "Device for connecting dumb machines to smart world",
   "main": "main.js",
   "scripts": {
-    "preinstall": "bash deps-new.sh",
+    "preinstall": "bash deps.sh",
     "start": "bash start.sh"
   },
   "repository": {
